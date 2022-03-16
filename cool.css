@@ -5,19 +5,36 @@
     position: absolute;
     margin-bottom: 90px;
 }
+
+.second{
+  margin-top: 90px;
+}
+
 .vertical {
     width: 10px;
     height: 100px;
     background-color: pink;
     position: absolute;
     z-index: 2;
-    left: 90px;
+    left: 100px;
 
 }
 
 
 
 .grouping {
-    margin-left: 10px;
-    background-color: red;
+    
+    position: relative;
+      
+}
+.grouping2{
+  position: relative;
+  top: 150px;
+}
+#one{
+  margin-top: 100px;
+  background-color: red;
+  width: 200px;
+  height: 100px;
+  
 }
