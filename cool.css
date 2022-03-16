@@ -1,0 +1,23 @@
+.horizontal {
+    width: 100px;
+    height: 10px;
+    background-color: pink;
+    position: absolute;
+    margin-bottom: 90px;
+}
+.vertical {
+    width: 10px;
+    height: 100px;
+    background-color: pink;
+    position: absolute;
+    z-index: 2;
+    left: 90px;
+
+}
+
+
+
+.grouping {
+    margin-left: 10px;
+    background-color: red;
+}
